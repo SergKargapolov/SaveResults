@@ -1,1 +1,7 @@
-r
+,model,train_score,test_score,comment
+0,LogisticRegression,0.47176015473887817,0.45784996133023975,
+1,LinearRegression,0.28429485862984194,0.34647498390396037,
+2,DecisionTreeRegressor(max_depth=6),0.39979808986700593,0.33225258039758443,
+3,RandomForestClassifier(random_state=4),1.0,0.6573859242072699,
+4,"RandomForestClassifier(random_state=4, max_depth = 20)",1.0,0.6666666666666666,
+5,"RandomForestClassifier(random_state=4, max_depth = 10)",0.8156673114119922,0.6218097447795824,
